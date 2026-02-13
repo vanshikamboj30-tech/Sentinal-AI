@@ -82,7 +82,3 @@ This project emphasizes:
 - **Human-in-the-Loop** — AI assists; operators decide
 - **Responsible AI** — No speculation, no autonomous actions, professional tone
 - **Clear Architecture** — Vision detection and AI reasoning are cleanly separated
-
-## Deployment
-
-Open [Lovable](https://lovable.dev/projects/92eed872-340d-4d1e-8c27-dabea9378d78) and click Share → Publish.
