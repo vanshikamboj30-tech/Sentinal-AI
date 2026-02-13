@@ -1,6 +1,6 @@
 # Sentinel AI — Autonomous Surveillance Intelligence Platform
 
-**URL**: https://lovable.dev/projects/92eed872-340d-4d1e-8c27-dabea9378d78
+**URL**: https://sentinelanalysis.lovable.app/
 
 ## Overview
 
